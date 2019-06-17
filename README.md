@@ -1,2 +1,2 @@
 # tensorflow-specialization
-My practice codes for learning TensorFlow
+My journey on learning how to use TensorFlow for deep learning

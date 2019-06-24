@@ -1,5 +1,6 @@
 .DS_Store
 playground.py
 .vscode/
+inception_v3.h5
 Training\ Data/
 Validation\ Data/

@@ -1,6 +1,3 @@
 .DS_Store
 playground.py
 .vscode/
-*.h5
-Training\ Data/
-Validation\ Data/
